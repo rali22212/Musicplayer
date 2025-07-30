@@ -51,7 +51,7 @@ Check out the live version: [Music Player Demo](https://muesicplayer.netlify.app
 1. Clone the repository
    ```bash
    git clone https://github.com/rali22212/Musicplayer.git
-   cd react-music-player
+   cd Musicplayer
    ```
 2. Install dependencies
    ```bash
